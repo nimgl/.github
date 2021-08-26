@@ -15,6 +15,8 @@ This repository's issues are reserved for bug reports.
   - OS: [ Windows | MacOS | Linux ]
   - Bindings: [ OpenGL | GLFW | ImGui | Vulkan ]
   - Backend: [ C | CPP ]
+  - Nim Version: [ 1.4.8 ]
+  - Compiler used: [ GCC | Clang ]
 
 * **Other information** (e.g. detailed explanation, stacktraces, related issues, suggestions how to fix, links for us to have context, eg. stackoverflow, docs.gl, documentation etc)
 
